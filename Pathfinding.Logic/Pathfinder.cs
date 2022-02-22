@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace Pathfinding.Logic
 {
+    /// <summary>
+    /// To calculate path i've used A* pathfinding algorithm 
+    /// https://www.youtube.com/watch?v=-L-WgKMFuhE&ab_channel=SebastianLague
+    /// </summary>
     public class Pathfinder
     {
         /// <summary>
